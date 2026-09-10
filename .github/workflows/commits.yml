@@ -5,4 +5,4 @@ on:
 
 jobs:
   check-commits:
-    uses: FlowingCode/GithubActions/.github/workflows/check-commits.yml@main
+    uses: FlowingCode/GithubActions/.github/workflows/check-commits.yml@feature/wip-action-required
