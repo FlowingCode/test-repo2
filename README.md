@@ -88,3 +88,4 @@ To do so, just add ```com.flowingcode``` to the ```vaadin.allowed-packages``` pr
 More information on Spring scanning configuration [here](https://vaadin.com/docs/latest/integrations/spring/configuration/#configure-the-scanning-of-packages).
 
 <!-- fork sibling of #11: WIP commits are the only problem. -->
+<!-- unfinished work -->
